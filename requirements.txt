@@ -1,0 +1,8 @@
+openai
+langchain
+pymysql
+sqlalchemy
+streamlit
+scikit-learn
+pandas
+folium
