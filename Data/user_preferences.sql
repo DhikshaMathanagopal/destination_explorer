@@ -1,0 +1,1 @@
+SELECT * FROM Travel.user_preferences;
