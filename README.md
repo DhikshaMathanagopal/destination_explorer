@@ -40,8 +40,8 @@ destination_explorer/
 │   ├── data_prep.py        # Load + prepare text for embeddings
 │   ├── embeddings.py       # Embedding with OpenAI
 │   └── image_fetcher.py    # Fetch images via Google API
-├── screenshots/            # App visuals (optional)
-├── Data/                   # SQL schema or CSV files (optional)
+├── screenshots/            # App visuals 
+├── Data/                   # SQL schema 
 │   ├── Locations.sql
 │   ├── Feedback.sql
 │   └── ...
